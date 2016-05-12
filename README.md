@@ -4,10 +4,14 @@
     It used front end routing for Single Page App applications.
     
 ##Sample #
-Landing Page
+
+![Image of Landing Page]
+(https://github.com/ranji2612/node-angular-starterkit/blob/master/landing.png?raw=true)
     
-    ![Alt text](https://github.com/ranji2612/node-angular-starterkit/blob/master/landing.png?raw=true)
-    
-About Page
-    
-    ![Alt text](https://github.com/ranji2612/node-angular-starterkit/blob/master/about.png?raw=true)
+![Image of About Page]
+(https://github.com/ranji2612/node-angular-starterkit/blob/master/about.png?raw=true)
+
+##Steps to run#
+
+    npm install
+    node server.js
