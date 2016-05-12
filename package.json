@@ -1,9 +1,9 @@
 {
-  "name": "FibanocciClock",
+  "name": "node-angular-starterkit",
   "version": "1.0.1",
-  "description": "Fibanacci representation of Time",
+  "description": "Simple starter kit with NodeJs, Express and AngularJS",
   "main": "server.js",
-  "author": "Ranjith Kumar",
+  "author": "Ranjith Kumar @ranji2612 ",
   "dependencies": {
     "express": "~4.0.0",
     "multer": "^1.1.0",

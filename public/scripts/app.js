@@ -4,12 +4,8 @@ var app = angular.module('mainApp', ['ngRoute']);
 app.config(function ($routeProvider, $locationProvider) {
     $routeProvider
 	.when('/', {
-        templateUrl	:	'html/course.html',
-        controller	:	'courseCtrl'
-	})
-    .when('/:code', {
-        templateUrl	:	'html/course.html',
-        controller	:	'courseCtrl'
+        templateUrl	:	'html/landing.html',
+        controller	:	'landingCtrl'
 	})
     .otherwise({ redirectTo: '/' });
 	
