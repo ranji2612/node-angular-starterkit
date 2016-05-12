@@ -7,8 +7,14 @@ app.config(function ($routeProvider, $locationProvider) {
         templateUrl	:	'html/landing.html',
         controller	:	'landingCtrl'
 	})
+    .when('/about', {
+        templateUrl	:	'html/about.html',
+        controller	:	'aboutCtrl'
+	})
     .otherwise({ redirectTo: '/' });
 	
+    // use the HTML5 History API
+    $locationProvider.html5Mode(true);
 });
 
 
