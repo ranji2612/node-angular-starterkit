@@ -8,8 +8,8 @@
 Landing Page
     
     
-    ![alt tag](https://raw.githubusercontent.com/ranji2612/node-angular-starterkit/master/landing.png)
+    ![Alt text](https://raw.githubusercontent.com/ranji2612/node-angular-starterkit/master/landing.png)
     
 About Page
     
-    ![alt tag](https://raw.githubusercontent.com/ranji2612/node-angular-starterkit/master/about.png)
+    ![Alt text](https://raw.githubusercontent.com/ranji2612/node-angular-starterkit/master/about.png)
